@@ -1,6 +1,6 @@
 # PirateVoyage - Explore the World
 
-<i class="fas fa-anchor"></i>
+![Anchor Icon](https://fontawesome.com/v5.15/icons/anchor?style=solid)
 
 PirateVoyage is a travel website that invites adventurers and wanderers to embark on a journey of exploration and discovery. Whether you're seeking exotic destinations, cultural experiences, or thrilling adventures, PirateVoyage is your trusted travel companion.
 
@@ -10,15 +10,15 @@ Explore the world with PirateVoyage by visiting our website: [PirateVoyage - Exp
 
 ## Features
 
-- **Discover Exciting Destinations:** Browse a wide range of destinations, from tropical paradises to historic cities, and find the perfect place for your next adventure.
+- ![Globe Icon](https://fontawesome.com/v5.15/icons/globe?style=solid) **Discover Exciting Destinations:** Browse a wide range of destinations, from tropical paradises to historic cities, and find the perfect place for your next adventure.
 
-- **Customized Travel Packages:** Tailor your travel experience with personalized packages designed to match your interests and preferences.
+- ![Suitcase Icon](https://fontawesome.com/v5.15/icons/suitcase?style=solid) **Customized Travel Packages:** Tailor your travel experience with personalized packages designed to match your interests and preferences.
 
-- **Inspirational Stories:** Read captivating travel stories and get inspired by the experiences of fellow travelers.
+- ![Book Icon](https://fontawesome.com/v5.15/icons/book?style=solid) **Inspirational Stories:** Read captivating travel stories and get inspired by the experiences of fellow travelers.
 
-- **Expert Advice:** Benefit from the expertise of our travel experts who provide valuable tips, recommendations, and insights.
+- ![User Icon](https://fontawesome.com/v5.15/icons/user-tie?style=solid) **Expert Advice:** Benefit from the expertise of our travel experts who provide valuable tips, recommendations, and insights.
 
-- **Easy Booking:** Seamless booking process for flights, accommodations, and activities to make your journey hassle-free.
+- ![Plane Icon](https://fontawesome.com/v5.15/icons/plane?style=solid) **Easy Booking:** Seamless booking process for flights, accommodations, and activities to make your journey hassle-free.
 
 ## Getting Started
 
