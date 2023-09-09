@@ -1,0 +1,29 @@
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.about-container h1 {
+  font-size: 24px;
+  color: #333;
+  margin-top: 20px;
+}
+
+.about-container p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+i {
+  margin: 0 1rem 0 0;
+}
+
+@media screen and (max-width: 850px) {
+  .about-container {
+    margin: 4rem 2rem;
+  }
+}
