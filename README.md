@@ -1,6 +1,8 @@
 # PirateVoyage - Explore the World
 
-![Anchor Icon](https://fontawesome.com/v5.15/icons/anchor?style=solid)
+<div style="display: inline-block; font-size: 24px; margin-right: 10px;">
+  <i class="fas fa-anchor"></i>
+</div>
 
 PirateVoyage is a travel website that invites adventurers and wanderers to embark on a journey of exploration and discovery. Whether you're seeking exotic destinations, cultural experiences, or thrilling adventures, PirateVoyage is your trusted travel companion.
 
@@ -10,15 +12,15 @@ Explore the world with PirateVoyage by visiting our website: [PirateVoyage - Exp
 
 ## Features
 
-- ![Globe Icon](https://fontawesome.com/v5.15/icons/globe?style=solid) **Discover Exciting Destinations:** Browse a wide range of destinations, from tropical paradises to historic cities, and find the perfect place for your next adventure.
+- <div style="display: inline-block; font-size: 24px; margin-right: 10px;"><i class="fas fa-globe"></i></div> **Discover Exciting Destinations:** Browse a wide range of destinations, from tropical paradises to historic cities, and find the perfect place for your next adventure.
 
-- ![Suitcase Icon](https://fontawesome.com/v5.15/icons/suitcase?style=solid) **Customized Travel Packages:** Tailor your travel experience with personalized packages designed to match your interests and preferences.
+- <div style="display: inline-block; font-size: 24px; margin-right: 10px;"><i class="fas fa-suitcase"></i></div> **Customized Travel Packages:** Tailor your travel experience with personalized packages designed to match your interests and preferences.
 
-- ![Book Icon](https://fontawesome.com/v5.15/icons/book?style=solid) **Inspirational Stories:** Read captivating travel stories and get inspired by the experiences of fellow travelers.
+- <div style="display: inline-block; font-size: 24px; margin-right: 10px;"><i class="fas fa-book-open"></i></div> **Inspirational Stories:** Read captivating travel stories and get inspired by the experiences of fellow travelers.
 
-- ![User Icon](https://fontawesome.com/v5.15/icons/user-tie?style=solid) **Expert Advice:** Benefit from the expertise of our travel experts who provide valuable tips, recommendations, and insights.
+- <div style="display: inline-block; font-size: 24px; margin-right: 10px;"><i class="fas fa-user-tie"></i></div> **Expert Advice:** Benefit from the expertise of our travel experts who provide valuable tips, recommendations, and insights.
 
-- ![Plane Icon](https://fontawesome.com/v5.15/icons/plane?style=solid) **Easy Booking:** Seamless booking process for flights, accommodations, and activities to make your journey hassle-free.
+- <div style="display: inline-block; font-size: 24px; margin-right: 10px;"><i class="fas fa-plane"></i></div> **Easy Booking:** Seamless booking process for flights, accommodations, and activities to make your journey hassle-free.
 
 ## Getting Started
 
