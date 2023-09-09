@@ -6,8 +6,7 @@ PirateVoyage is a travel website that invites adventurers and wanderers to embar
 
 ## Visit Our Website
 
-Explore the world with PirateVoyage by visiting our website: [PirateVoyage - Explore the World](https://monumental-starship-65eda5.netlify.app/)
-
+Explore the world with PirateVoyage by visiting our website: <a href="https://monumental-starship-65eda5.netlify.app/" target="_blank">PirateVoyage - Explore the World</a>
 ## Features
 
 - 🌍 **Discover Exciting Destinations:** Browse a wide range of destinations, from tropical paradises to historic cities, and find the perfect place for your next adventure.
