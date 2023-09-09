@@ -1,6 +1,6 @@
 # PirateVoyage - Explore the World
 
-![PirateVoyage Logo](https://monumental-starship-65eda5.netlify.app/)
+![PirateVoyage Logo](<i class="fa-solid fa-anchor"></i>)
 
 PirateVoyage is a travel website that invites adventurers and wanderers to embark on a journey of exploration and discovery. Whether you're seeking exotic destinations, cultural experiences, or thrilling adventures, PirateVoyage is your trusted travel companion.
 
